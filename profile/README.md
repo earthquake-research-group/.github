@@ -1,11 +1,12 @@
-## Hi there, we are Melbourne Earthquake Science 👋
+## Hi there, we are the Earthquake Research Group based at the University of Melbourne 👋
 
 
-Website coming sooon
+Website coming soon
+
+
 
 ------------
-Page maintained by the Melbourne Earthquake Science group. For information, contact dsand@unimelb.edu.au.
-
+Page maintained by the Earthquake Research Group. For information, contact dsand@unimelb.edu.au.
 
 
 <!--
